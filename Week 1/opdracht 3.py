@@ -1,0 +1,5 @@
+str ("Welkom bij python!")
+int ("260")
+int ("-56")
+float ("2001.99")
+str ("k1ngd0m")
